@@ -15,5 +15,5 @@ sh run.sh
 
 Tried to build the container from alpine instead of debian but debian was easier since packages for all wine deps & libs are available (unlike alpine).  
 Steam .deb was broken and failed to even start. Native windows version runs perfectly.  
-
+Gecko/mono not included automatically in case you don't need them for a specific app.  
 
