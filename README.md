@@ -4,10 +4,12 @@ Simple dockerfile and startup script for running graphical programs in wine in a
 
 ## Usage
 
+```
 cd debian
 ./build.sh
 cp whatever_installer.exe setup/
 sh run.sh
+```
 
 ## Misc notes
 
